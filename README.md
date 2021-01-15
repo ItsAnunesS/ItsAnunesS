@@ -7,7 +7,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/doggo.gif' width='200"'>
 <h2> I'm a Future Developer 🐻</h2>
 <p>I am a high school student who lives in Portugal and a technology enthusiast. I love to learn new things and I desire to become a Full Stack Developer.
-<br>I like to plan and create web systems using HTML, CSS, JavaScript, PHP and in the future with better technologies, like Composer and Node.</p>
+<br>I like to plan and create web systems using HTML, CSS, JavaScript and in the future with better technologies, like Node.</p>
 
 <h3> Operational Systems 🪄</h3>
 <p>
