@@ -5,9 +5,9 @@
 </p>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='200"'>
-<h2> I'm a Future Developer 🐻</h2>
-<p>I am a high school student who lives in Portugal and a technology enthusiast. I love to learn new things and I desire to become a Full Stack Developer.
-<br>I like to plan and create web systems using HTML, CSS, JavaScript, PHP and in the future with better technologies, like Composer and Node.</p>
+<h2>I'm a Developer in Progress 🐻</h2>
+<p>I am a high school student who lives in Portugal and a technology enthusiast. I love to learn new things and I'm studying to become an excellent programmerr.
+<br>I like to plan and create web systems using HTML5, CSS3, JavaScript, Ruby and in the future with better technologies, like Rails and Node.</p>
 
 <h3> Operational Systems 🪄</h3>
 <p>
