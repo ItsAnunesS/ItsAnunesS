@@ -4,7 +4,7 @@
   <a href="https://anunesscorp.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414"></img></a>
 </p>
 
-<img align='right' src='https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/doggo.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='200"'>
 <h2> I'm a Future Developer 🐻</h2>
 <p>I am a high school student who lives in Portugal and a technology enthusiast. I love to learn new things and I desire to become a Full Stack Developer.
 <br>I like to plan and create web systems using HTML, CSS, JavaScript, PHP and in the future with better technologies, like Composer and Node.</p>
