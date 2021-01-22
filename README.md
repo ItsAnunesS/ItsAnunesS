@@ -60,10 +60,10 @@
 </p>
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/brazilparrot.gif" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/argentinaparrot.gif" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/unitedstatesofamericaparrot.gif" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/flags_parrots/flags/hd/portugalparrot.gif" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/argentinaparrot.gif" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/unitedstatesofamericaparrot.gif" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/portugalparrot.gif" width="30" height="30"/>
 </p>
 
 <p  align="center">
