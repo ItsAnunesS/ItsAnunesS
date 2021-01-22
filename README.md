@@ -6,15 +6,15 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='200"'>
 <h2>I'm a Developer in Progress 🐻</h2>
-<p>I am a high school student who lives in Portugal and a technology enthusiast. I love to learn new things and I'm studying to become an Excellent Developer.
-<br>I like to plan and create web systems using HTML5, CSS3, JavaScript, Ruby and in the future with better technologies, like Rails and Node.</p>
+<p>I am a high school student living in Portugal, I'm a technology enthusiast who loves to learn new things and I'm studying to become an Excellent Developer. I like to plan and create web systems (Back-end) using technologies like JavaScript and Ruby.</p>
 
 <h3> Operational Systems 🪄</h3>
 <p>
   <a href="https://www.apple.com/macos/big-sur/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff"></a>
   <a href="https://www.archlinux.org/" target="_blank"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-2020.12.01-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=1793D1"></a>
   <a href="https://manjaro.org/" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-Nibia-35BF5C?style=flat-square&logo=Manjaro&logoColor=35BF5C"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a>>
+  <a href="https://www.microsoft.com/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-00adef?style=flat-square&logo=windows&logoColor=00adef"></a>
 </p>
 
 <h3> Languages and Tools ⚔️</h3>
