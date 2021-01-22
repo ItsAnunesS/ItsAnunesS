@@ -19,18 +19,15 @@
 
 <h3> Languages and Tools ⚔️</h3>
 <p>
-  <img alt="C" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-  <img alt="Ruby" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
-  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  <img alt="Markdown" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">
-  <img alt="GIT" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img alt="VSCode" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  <img alt="Terminal" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-  <img alt="Vim" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
-  <img alt="Linux" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+  <img alt="C" src="https://img.shields.io/badge/-Language-%234d4d4d?style=flat-square&logo=c&logoColor=ffffff&labelColor=%234d4d4d&color=%236e6e6e">
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-%23820C02?style=flat-square&logo=ruby&logoColor=ffffff&labelColor=%23820C02&color=%23A91401">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%23264de4?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23264de4&color=%232965f1">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=ffffff&labelColor=%23563d7c&color=%23704ea3">
+  <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-%23F1502F?style=flat-square&logo=git&logocolor=ffffff">
+  <img alt="Vim" src="https://img.shields.io/badge/Tools-Vim-%23019733?style=flat-square&logo=vim">
+  <img alt="VSCode" src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code">
 </p>
 
 <h3> Stay Connected 💃</h3>
