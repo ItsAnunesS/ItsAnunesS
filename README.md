@@ -46,7 +46,6 @@
 <p>
   <a href="https://www.instagram.com/itsanuness/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/ItsAnunesS-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/ItsAnunesS" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/ItsAnunesS-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/itsanuness" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/ItsAnunesS-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ItsAnunesS" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@itsanuness" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/@ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
