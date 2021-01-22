@@ -13,7 +13,7 @@
   <a href="https://www.apple.com/macos/big-sur/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff"></a>
   <a href="https://www.archlinux.org/" target="_blank"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-2020.12.01-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=1793D1"></a>
   <a href="https://manjaro.org/" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-Nibia-35BF5C?style=flat-square&logo=Manjaro&logoColor=35BF5C"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a>>
+  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a>
   <a href="https://www.microsoft.com/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-00adef?style=flat-square&logo=windows&logoColor=00adef"></a>
 </p>
 
