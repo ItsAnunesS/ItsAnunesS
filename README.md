@@ -6,7 +6,10 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='200"'>
 <h2>I'm a Developer in Progress 🐻</h2>
-<p>I am a high school student living in Portugal, I'm a technology enthusiast who loves to learn new things and I'm studying to become an Excellent Developer. I like to plan and create web systems (Back-end) using technologies like JavaScript and Ruby.</p>
+<p>I am a high school student living in Portugal, I'm a technology enthusiast who loves to learn new things and I'm studying to become an Excellent Developer. I like to plan and create web systems (Back-end) using technologies like JavaScript and Ruby.
+<br>🙌 I'm currently looking for: <strong>Junior (Back-end Ruby Developer || Full-Stack Web Developer) Job Opportunities</strong>
+</p>
+
 
 <h3> Operational Systems 🪄</h3>
 <p>
