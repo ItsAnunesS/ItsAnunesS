@@ -4,10 +4,13 @@
   <a href="https://anunesscorp.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414"></img></a>
 </p>
 
-<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='400"'>
 <h2>I'm a Developer in Progress 🐻</h2>
 <p>I am a high school student living in Portugal, I'm a technology enthusiast who loves to learn new things and I'm studying to become an Excellent Developer. I like to plan and create web systems (Back-end) using technologies like JavaScript and Ruby.
-<br><strong>🙌 I'm currently looking for: </strong>Junior (Back-end Ruby Developer || Full-Stack Web Developer) Job Opportunities
+  <br><strong>🙌 I'm currently looking for:</strong> Junior (Back-end Ruby Developer || Full-Stack Web Developer) Job Opportunities
+  <br><strong>🔭 I’m currently working on:</strong> Freelancer Full-Stack Web Dev
+  <br><strong>🌱 I’m currently learning:</strong> Ruby on Rails || NodeJS
+  <br><strong>👯 I’m currently looking on:</strong>Collaborate Open-source (Ruby/JavaScript) Projects
 </p>
 
 
