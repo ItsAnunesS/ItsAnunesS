@@ -10,7 +10,7 @@
   <br><strong>🙌 I'm currently looking for:</strong> Junior (Back-end Ruby Developer || Full-Stack Web Developer) Job Opportunities
   <br><strong>🔭 I’m currently working on:</strong> Freelancer Full-Stack Web Developer
   <br><strong>🌱 I’m currently learning:</strong> Ruby on Rails || NodeJS
-  <br><strong>👯 I’m currently looking on:</strong>Collaborate Open-source (Ruby/JavaScript) Projects
+  <br><strong>👯 I’m currently looking on:</strong> Collaborate Open-source (Ruby/JavaScript) Projects
 </p>
 
 
