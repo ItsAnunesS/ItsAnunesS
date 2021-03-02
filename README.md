@@ -1,6 +1,6 @@
 <h3> Hey buddy, AnunesS here 👋</h3>
 <p>
-  <a href="https://anunesscorp.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=12deda&url=https%3A%2F%2Fanunesscorp.com"></img></a>
+  <a href="https://anuness.dev" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=12deda&url=https%3A%2F%2Fanuness.dev"></img></a>
   <a href="https://anunesscorp.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414"></img></a>
 </p>
 
