@@ -1,16 +1,15 @@
 <h3> Hey buddy, AnunesS here 👋</h3>
 <p>
-  <a href="https://anuness.dev" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=12deda&url=https%3A%2F%2Fanuness.dev"></img></a>
-  <a href="https://anunesscorp.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414"></img></a>
+  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=12deda&url=https%3A%2F%2Fanuness.dev"></img></a>
+  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414&url=https%3A%2F%2Fanuness.dev"></img></a>
 </p>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
-<h2>I'm a Developer in Progress 🐻</h2>
-<p>I am a high school student living in Portugal, I'm a technology enthusiast who loves to learn new things and I'm studying to become an Excellent Developer. I like to plan and create web systems (Back-end) using technologies like JavaScript and Ruby.
-  <br><strong>🙌 I'm currently looking for:</strong> Junior (Back-end Ruby Developer || Full-Stack Web Developer) Job Opportunities
-  <br><strong>🔭 I’m currently working on:</strong> Freelancer Full-Stack Web Developer
-  <br><strong>🌱 I’m currently learning:</strong> Ruby on Rails || NodeJS
-  <br><strong>👯 I’m currently looking on:</strong> Collaborate Open-source (Ruby/JavaScript) Projects
+<h2>I'm a Junior Backend Developer 🐻</h2>
+<p>I am a programming student who lives in Portugal, a technology enthusiast who loves to learn new things and I am studying to become an Excellent Backend Developer. I like to plan and create web systems (Back-end) using technologies like PHP and Ruby.
+  <br><strong>🙌 I'm currently looking for:</strong> Junior (Back-end Ruby Developer || PHP Developer) Job Opportunities
+  <br><strong>🔭 I’m currently working on:</strong> Freelancer Web Developer
+  <br><strong>🌱 I’m currently learning:</strong> WordPress Development || Laravel
 </p>
 
 
@@ -27,6 +26,7 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/-Language-%234d4d4d?style=flat-square&logo=c&logoColor=ffffff&labelColor=%234d4d4d&color=%236e6e6e">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-%23820C02?style=flat-square&logo=ruby&logoColor=ffffff&labelColor=%23820C02&color=%23A91401">
+  <img alt="PHP Hypertext Preprocessor" src="https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%23787CB5&color=%23B0B3D6">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%23264de4?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23264de4&color=%232965f1">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
@@ -41,7 +41,6 @@
 <h4> Dev Media </h4>
 <p>
   <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://gitlab.com/ItsAnunesS" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
    <a href="https://dev.to/itsanuness" target="_blank"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
    <a href="https://stackoverflow.com/cv/itsanuness" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a> 
 </p>
