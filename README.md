@@ -6,7 +6,7 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <h2>I'm a Junior Backend Developer 🐻</h2>
-<p>I am a programming student who lives in Portugal, a technology enthusiast who loves to learn new things and I am studying to become an Excellent Backend Developer. I like to plan and create web systems (Back-end) using technologies like PHP and Ruby.
+<p>I am a programming student, a technology enthusiast who loves to learn new things and I am studying to become an Excellent Backend Developer. I like to plan and create web systems (Back-end) using technologies like PHP and Ruby.
   <br><strong>🙌 I'm currently looking for:</strong> Junior (Back-end Ruby Developer || PHP Developer) Job Opportunities
   <br><strong>🔭 I’m currently working on:</strong> Freelancer Web Developer
   <br><strong>🌱 I’m currently learning:</strong> WordPress Development || Laravel
