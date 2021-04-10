@@ -1,12 +1,11 @@
 <h3> Hey buddy, AnunesS here 👋</h3>
 <p>
   <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=12deda&url=https%3A%2F%2Fanuness.dev"></img></a>
-  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PGP&message=4B69877EF1ABD20C&color=e31414&url=https%3A%2F%2Fanuness.dev"></img></a>
 </p>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
-<h2>I'm a Junior Backend Developer 🐻</h2>
-<p>I am a programming student, a technology enthusiast who loves to learn new things. I'm studying to become an Excellent Backend Developer and I like to plan and create web systems (Back-end) using technologies such as PHP and Ruby.
+<h2>I'm a Junior Back end Developer 🐻</h2>
+<p>I am a programming student, a technology enthusiast who loves to learn new things. I'm studying to become an Excellent Back end Developer and I like to plan and create web systems using technologies such as PHP and Ruby.
   <br><strong>🙌 I'm currently looking for:</strong> Junior Backend (Ruby || PHP) Developer Job Opportunities
   <br><strong>🔭 I’m currently working on:</strong> Freelancer Web Developer
   <br><strong>🌱 I’m currently learning:</strong> WordPress Development || Laravel
