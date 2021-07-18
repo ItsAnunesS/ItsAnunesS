@@ -9,7 +9,7 @@
 <p>I am a programming student, a technology enthusiast who loves to learn new things. I'm studying to become an Excellent Back-end Developer and I like to plan and create web systems using technologies such as PHP and Ruby.
   <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
   <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
-  <br><strong>🌱 I’m currently learning:</strong> Laravel && Ruby 
+  <br><strong>🌱 I’m currently learning:</strong> Laravel && Vue
 </p>
 
 
