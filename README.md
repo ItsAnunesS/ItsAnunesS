@@ -13,7 +13,7 @@
 </p>
 
 
-<h3> Operational Systems 🪄</h3>
+<h3> Operational Systems 🐧</h3>
 <p>
   <a href="https://www.apple.com/macos/big-sur/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff"></a>
   <a href="https://www.archlinux.org/" target="_blank"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-2020.12.01-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=1793D1"></a>
