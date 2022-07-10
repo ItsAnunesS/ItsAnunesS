@@ -1,7 +1,6 @@
 <h3> Hey buddy, AnunesS here 👋</h3>
 <p>
   <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=red&url=https%3A%2F%2Fanuness.dev"></img></a>
-  <a href="http://42lisboa.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=%20Lisboa&message=Student&logo=42&style=for-the-badge&color=12deda"></img></a>
 </p>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
