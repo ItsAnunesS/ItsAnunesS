@@ -78,6 +78,7 @@
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/portugalparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/italyparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/england.gif" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/unitedkingdomparrot.gif" width="30" height="30"/>
 </p>
 
 <p  align="center">
