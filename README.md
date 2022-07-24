@@ -6,10 +6,10 @@
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <h2>I'm a Back-end Developer 🐻</h2>
 <div>
-  <p>I'm a Developer with experience in building website, web app and Restful API. I'm an expert in PHP and also have professional experience working with Laravel, WordPress and JavaScript.
-
-  I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.
-    <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
+  <p>I'm a Developer with experience in building website, web app and Restful API. I'm an expert in PHP and also have professional experience working with Laravel, WordPress and JavaScript.</p>
+  <p>I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.</p>
+  <p>
+    <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
     <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
     <br><strong>🌱 I’m currently learning:</strong> Laravel && Vue
   </p>
@@ -27,19 +27,30 @@
 
 <h3> Languages and Tools ⚔️</h3>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-Language-%234d4d4d?style=flat-square&logo=c&logoColor=ffffff&labelColor=%234d4d4d&color=%236e6e6e">
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-%23820C02?style=flat-square&logo=ruby&logoColor=ffffff&labelColor=%23820C02&color=%23A91401">
-  <img alt="PHP Hypertext Preprocessor" src="https://img.shields.io/badge/-PHP-%23787CB5?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%23787CB5&color=%23B0B3D6">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%23264de4?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23264de4&color=%232965f1">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=ffffff&labelColor=%23563d7c&color=%23704ea3">
-  <img alt="Vue.js" src="https://img.shields.io/static/v1?&label=&message=Vue.js&logo=vue.js&logoColor=ffffff&style=flat-square&color=4FC08D&labelColor=419c73">
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-%23787CB5?style=flat-square&logo=wordpress&logoColor=FFFFFF&labelColor=%23444140&color=%2300749C">
-  <br>
-  <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-%23F1502F?style=flat-square&logo=git&logocolor=ffffff">
-  <img alt="Vim" src="https://img.shields.io/badge/Tools-Vim-%23019733?style=flat-square&logo=vim">
-  <img alt="VSCode" src="https://img.shields.io/badge/IDE-VS%20Code-%23007ACC?style=flat-square&logo=Visual-studio-code">
-  <img alt="PhpStorm" src="https://img.shields.io/badge/IDE-PhpStorm-%235e2495?style=flat-square&logo=Phpstorm">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="laravel" width="40" height="40"/>
+    </a>
 </p>
 
 <h3> Stay Connected 💃</h3>
