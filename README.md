@@ -5,11 +5,15 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <h2>I'm a Back-end Developer 🐻</h2>
-<p>I am a programming student, a technology enthusiast who loves to learn new things. I'm studying to become an Excellent Back-end Developer and I like to plan and create web systems using technologies such as PHP and Ruby.
-  <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
-  <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
-  <br><strong>🌱 I’m currently learning:</strong> Laravel && Vue
-</p>
+<div align="justify">
+  <p>I'm a Developer with experience in building website, web app and Restful API. I'm an expert in PHP and also have professional experience working with Laravel, WordPress and JavaScript.
+
+  I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.
+    <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
+    <br><strong>🔭 I’m currently working on:</strong> Junior Back-end Developer
+    <br><strong>🌱 I’m currently learning:</strong> Laravel && Vue
+  </p>
+</div>
 
 
 <h3> Operational Systems 🐧</h3>
