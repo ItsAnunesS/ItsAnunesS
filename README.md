@@ -81,8 +81,11 @@
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/unitedkingdomparrot.gif" width="30" height="30"/>
 </p>
 
-<p  align="center">
-  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/itsanuness?style=social" alt="visitor badge"/></a>
-  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=itsanuness.itsanuness" alt="visitor badge"/></a>
+<p align="center">
+  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/itsanuness?color=red" alt="Followers badge"/></a>
+  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://komarev.com/ghpvc/?username=itsanuness&color=d6614a&style=flat&label=visitors" alt="Visitor badge"/></a>
+  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/stars/itsanuness?color=red" alt="Stars badge"  /></a>
+</p>
+<p align="center">
   <a href="https://github.com/sponsors/ItsAnunesS/"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=24292e" alt="Git Sponsors"></a>
 </p>
