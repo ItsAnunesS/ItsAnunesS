@@ -55,10 +55,6 @@
 </p>
 
 ---
-<p align="center">
-    <img alt="ItsAnunesS's GitHub Stats" src="https://github-readme-stats.itsanuness.vercel.app/api?username=ItsAnunesS&show_icons=true&hide_border=true&theme=midnight-purple&locale=en" />
-    <img alt="ItsAnunesS's GitHub Stats" src="https://github-readme-stats.itsanuness.vercel.app/api/top-langs/?username=ItsAnunesS&theme=midnight-purple&line_height=27&layout=compact" />
-</p>
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="30" height="30"/>
