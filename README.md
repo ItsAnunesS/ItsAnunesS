@@ -10,7 +10,7 @@
   <p>I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.</p>
   <p>
     <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
-    <br><strong>🔭 I’m currently working on:</strong> Software Engineer
+    <br><strong>🔭 I’m currently working on:</strong> Software Engineering
     <br><strong>🌱 I’m currently learning:</strong> Software Architecture
   </p>
 </div>
