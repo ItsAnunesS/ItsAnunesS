@@ -5,7 +5,7 @@
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <h2>I'm a Back-end Developer 🐻</h2>
-<div align="justify">
+<div>
   <p>I'm a Developer with experience in building website, web app and Restful API. I'm an expert in PHP and also have professional experience working with Laravel, WordPress and JavaScript.
 
   I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.
