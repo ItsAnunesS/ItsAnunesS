@@ -6,15 +6,14 @@
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
 <h2>I'm a Back-end Developer 🐻</h2>
 <div>
-  <p>I'm a Developer with experience in building website, web app and Restful API. I'm an expert in PHP and also have professional experience working with Laravel, WordPress and JavaScript.</p>
-  <p>I started to learn programming when I was a teenager, although it has always been more of a hobby and a dream than a career focus. After a lot of studies and dedicated time, I decided to pursue this hobby as something professional and I realized that software engineering was the right field for me.</p>
+  <p>I am a Software Engineer with experience in building Websites, Applications and Restful APIs, I am an expert in PHP, JavaScript and TypeScript having professional experience working with Blockchain/Web3. I'm also starting to learn software architecture on my own.</p>
   <p>
     <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
     <br><strong>🔭 I’m currently working on:</strong> Software Engineering
     <br><strong>🌱 I’m currently learning:</strong> Software Architecture
+    <br><strong>🪙 Ethereum (ETH):</strong> <code>anuness.eth</code>
   </p>
 </div>
-
 
 <h3> Operational Systems 🐧</h3>
 <p>
@@ -58,7 +57,6 @@
 <p>
   <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
    <a href="https://dev.to/itsanuness" target="_blank"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
-   <a href="https://stackoverflow.com/cv/itsanuness" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a> 
 </p>
 
 <h4> Social Media </h4>
@@ -66,7 +64,6 @@
   <a href="https://www.instagram.com/itsanuness/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/ItsAnunesS-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/ItsAnunesS" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/ItsAnunesS-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ItsAnunesS" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@itsanuness" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/@ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
