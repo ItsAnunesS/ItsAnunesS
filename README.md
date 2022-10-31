@@ -1,4 +1,4 @@
-<h3> Hey buddy, AnunesS here 👋</h3>
+<h3> Hey buddy, it's AnunesS 👋</h3>
 <p>
   <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=red&url=https%3A%2F%2Fanuness.dev"></img></a>
 </p>
