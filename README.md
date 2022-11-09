@@ -4,9 +4,9 @@
 </p>
 
 <img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
-<h2>I'm a Back-end Developer 🐻</h2>
+<h2>I'm a Software Engineer 🐻</h2>
 <div>
-  <p>I am a Software Engineer with experience in building Websites, Applications and Restful APIs, I am an expert in PHP, JavaScript and TypeScript having professional experience working with Blockchain/Web3. I'm also starting to learn software architecture on my own.</p>
+  <p>I'm a Software Engineer with experience in building Websites, Applications and Restful APIs, I'm an expert in PHP, JavaScript and TypeScript having professional experience working with Blockchain/Web3. I am also starting to learn software architecture on my own.</p>
   <p>
     <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
     <br><strong>🔭 I’m currently working on:</strong> Software Engineering
