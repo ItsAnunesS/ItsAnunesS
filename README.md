@@ -12,6 +12,7 @@
     <br><strong>🔭 I’m currently working on:</strong> Software Engineering
     <br><strong>🌱 I’m currently learning:</strong> Software Architecture
     <br><strong>🪙 Ethereum (ETH):</strong> <code>anuness.eth</code>
+    <br><strong>🐘 Arweave:</strong> <code>anuness.arweave.dev</code>
   </p>
 </div>
 
