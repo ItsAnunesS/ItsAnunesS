@@ -56,7 +56,6 @@
 <h4> Dev Media </h4>
 <p>
   <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://dev.to/itsanuness" target="_blank"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
 </p>
 
 <h4> Social Media </h4>
