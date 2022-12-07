@@ -3,7 +3,7 @@
   <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=red&url=https%3A%2F%2Fanuness.dev"></img></a>
 </p>
 
-<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
+<img align='right' src='https://media3.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif?cid=790b761157d053b55cdd998bd8b67b0080470b95f13315bc&rid=giphy.gif&ct=g'>
 <h2>I'm a Software Engineer 🐻</h2>
 <div>
   <p>I'm a Software Engineer with experience in building Websites, Applications and Restful APIs, I'm an expert in PHP, JavaScript and TypeScript having professional experience working with Blockchain/Web3. I am also starting to learn software architecture on my own.</p>
