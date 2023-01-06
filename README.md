@@ -6,7 +6,9 @@
 <img align='right' src='https://media3.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif?cid=790b761157d053b55cdd998bd8b67b0080470b95f13315bc&rid=giphy.gif&ct=g'>
 <h2>I'm a Software Engineer 🐻</h2>
 <div>
-  <p>I'm a Software Engineer with experience in building Websites, Applications and Restful APIs, I'm an expert in PHP, JavaScript and TypeScript having professional experience working with Blockchain/Web3. I am also starting to learn software architecture on my own.</p>
+  <p>As a software engineer, I have a strong foundation in PHP and various frameworks including Laravel and WordPress. I am proficient in a range of technologies such as JavaScript, TypeScript, NodeJS, VueJS, and TailwindCSS, and have experience using tools like AWS, Arweave, Docker, and GIT for development and deployment. I am committed to delivering high-quality software solutions on time and within budget, and am eager to find a challenging role where I can use my skills and experience to make a positive impact on a dynamic team.
+
+I'm also starting to learn Game Development/Design for fun.</p>
   <p>
     <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
     <br><strong>🔭 I’m currently working on:</strong> Software Engineering
