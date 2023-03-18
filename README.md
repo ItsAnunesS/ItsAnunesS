@@ -15,7 +15,6 @@ I'm also starting to learn Game Development/Design for fun.</p>
     <br><strong>🌱 I’m currently learning:</strong> Software Architecture
     <br><strong>🪙 Ethereum (ETH):</strong> <code>anuness.eth</code>
     <br><strong>🐘 Arweave:</strong> <a href="https://anuness.arweave.dev/" target="_blank"><code>anuness.arweave.dev</code></a>
-    <br><strong>🐘 Arweave 2:</strong> <a href="https://itsanuness.arweave.dev/" target="_blank"><code>itsanuness.arweave.dev</code></a>
   </p>
 </div>
 
