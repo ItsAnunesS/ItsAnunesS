@@ -1,21 +1,13 @@
-<h3> Hey buddy, it's AnunesS 👋</h3>
-<p>
-  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=red&url=https%3A%2F%2Fanuness.dev"></img></a>
-</p>
+<img alt="Header" src="https://arweave.net/Br35-6-63hIrZpfGGJSU1Bjw6JdfHN8buIUzAVkqbo4"></img>
 
-<img align='right' src='https://media3.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif?cid=790b761157d053b55cdd998bd8b67b0080470b95f13315bc&rid=giphy.gif&ct=g'>
-<h2>I'm a Software Engineer 🐻</h2>
+<div align="center">
+  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=cyan&url=https%3A%2F%2Fanuness.dev"></img></a>
+  <a href="https://anuness.dev/tree" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkTree&message=UP&color=green&url=https%3A%2F%2Fanuness.dev/tree"></img></a>
+</div>
+
 <div>
-  <p>As a software engineer, I have a strong foundation in PHP and various frameworks including Laravel and WordPress. I am proficient in a range of technologies such as JavaScript, TypeScript, NodeJS, VueJS, and TailwindCSS, and have experience using tools like AWS, Arweave, Docker, and GIT for development and deployment. I am committed to delivering high-quality software solutions on time and within budget, and am eager to find a challenging role where I can use my skills and experience to make a positive impact on a dynamic team.
-
-I'm also starting to learn Game Development/Design for fun.</p>
-  <p>
-    <strong>🙌 I'm currently looking for:</strong> Learn as much as I can
-    <br><strong>🔭 I’m currently working on:</strong> Software Engineering
-    <br><strong>🌱 I’m currently learning:</strong> Software Architecture
-    <br><strong>🪙 Ethereum (ETH):</strong> <code>anuness.eth</code>
-    <br><strong>🐘 Arweave:</strong> <a href="https://anuness.arweave.dev/" target="_blank"><code>anuness.arweave.dev</code></a>
-  </p>
+  <p>Hello! I'm an experienced software engineer passionate about creating innovative solutions. With comprehensive skills in Fullstack development and a strong thirst for learning, I'm well-equipped to build scalable and high-performance applications.</p>
+  <p>I am excited to collaborate on exciting projects where I can leverage my expertise, creativity, and technology-driven enthusiasm to make a difference. Together, we can develop efficient solutions, enhance productivity, and achieve exceptional results.</p>
 </div>
 
 <h3> Languages and Tools ⚔️</h3>
@@ -41,8 +33,8 @@ I'm also starting to learn Game Development/Design for fun.</p>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -56,16 +48,11 @@ I'm also starting to learn Game Development/Design for fun.</p>
 </p>
 
 <h3> Stay Connected 💃</h3>
-<h4> Dev Media </h4>
 <p>
-  <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</p>
-
-<h4> Social Media </h4>
-<p>
-  <a href="https://www.instagram.com/itsanuness/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/ItsAnunesS-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/itsanuness" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/ItsAnunesS-%23229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://twitter.com/ItsAnunesS" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/ItsAnunesS-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ItsAnunesS" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
 ---
