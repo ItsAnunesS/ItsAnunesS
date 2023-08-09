@@ -1,16 +1,19 @@
-<img alt="Header" src="https://arweave.net/Br35-6-63hIrZpfGGJSU1Bjw6JdfHN8buIUzAVkqbo4"></img>
+![Header](https://arweave.net/Br35-6-63hIrZpfGGJSU1Bjw6JdfHN8buIUzAVkqbo4)
 
 <div align="center">
-  <a href="https://anuness.dev/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=cyan&url=https%3A%2F%2Fanuness.dev"></img></a>
-  <a href="https://anuness.dev/tree" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LinkTree&message=UP&color=green&url=https%3A%2F%2Fanuness.dev/tree"></img></a>
+
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=cyan)](https://anuness.dev/)
+[![LinkTree](https://img.shields.io/static/v1?style=for-the-badge&label=LinkTree&message=UP&color=green)](https://anuness.dev/tree)
+
 </div>
 
-<div>
-  <p>Hello! I'm an experienced software engineer passionate about creating innovative solutions. With comprehensive skills in Fullstack development and a strong thirst for learning, I'm well-equipped to build scalable and high-performance applications.</p>
-  <p>I am excited to collaborate on exciting projects where I can leverage my expertise, creativity, and technology-driven enthusiasm to make a difference. Together, we can develop efficient solutions, enhance productivity, and achieve exceptional results.</p>
-</div>
+Hello! 🌟 I'm an experienced software engineer with a burning passion for crafting innovative solutions. With a robust foundation in Fullstack development and an insatiable thirst for knowledge, I'm primed to construct scalable and high-performance applications.
 
-<h3> Languages and Tools ⚔️</h3>
+I'm thrilled to collaborate on exhilarating projects where I can harness my expertise, creativity, and technology-driven zeal to make a tangible difference. Together, we can sculpt efficient solutions, amplify productivity, and achieve unparalleled results.
+
+🎮 **Currently diving deep into:** Game Development/Design with Godot, GDScript, and C#.
+
+### Languages and Tools ⚔️
 <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="laravel" width="40" height="40"/>
@@ -47,17 +50,26 @@
     </a>
 </p>
 
-<h3> Stay Connected 💃</h3>
+### Game Development
 <p>
-  <a href="https://t.me/itsanuness" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/ItsAnunesS-%23229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/ItsAnunesS" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/ItsAnunesS-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ItsAnunesS" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ItsAnunesS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  </a>
 </p>
+
+### Stay Connected 💃
+
+[![Telegram](https://img.shields.io/badge/ItsAnunesS-%23229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsanuness)
+[![Twitter](https://img.shields.io/badge/ItsAnunesS-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItsAnunesS)
+[![LinkedIn](https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ItsAnunesS)
+[![GitHub](https://img.shields.io/badge/ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ItsAnunesS)
 
 ---
 
-<p  align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/argentinaparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/unitedstatesofamericaparrot.gif" width="30" height="30"/>
@@ -65,13 +77,13 @@
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/italyparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/england.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/unitedkingdomparrot.gif" width="30" height="30"/>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/itsanuness?color=red" alt="Followers badge"/></a>
-  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://komarev.com/ghpvc/?username=itsanuness&color=d6614a&style=flat&label=visitors" alt="Visitor badge"/></a>
-  <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/stars/itsanuness?color=red" alt="Stars badge"  /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/sponsors/ItsAnunesS/"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=24292e" alt="Git Sponsors"></a>
-</p>
+<div align="center">
+
+[![Followers badge](https://img.shields.io/github/followers/itsanuness?color=red)](https://github.com/ItsAnunesS/)
+[![Visitor badge](https://komarev.com/ghpvc/?username=itsanuness&color=d6614a&style=flat&label=visitors)](https://github.com/ItsAnunesS/)
+[![Stars badge](https://img.shields.io/github/stars/itsanuness?color=red)](https://github.com/ItsAnunesS/)
+[![Git Sponsors](https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=24292e)](https://github.com/sponsors/ItsAnunesS/)
+
+</div>
