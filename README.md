@@ -55,6 +55,12 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" />
   </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.unrealengine.com/en-US" alt="Unreal Engine" width="40" height="40" />
+  </a>
+  <a href="https://www.rpgmakerweb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/rpgmaker.png" alt="RPG Maker" width="40" height="40" />
+  </a>
 </p>
 
 ### Stay Connected 💃
