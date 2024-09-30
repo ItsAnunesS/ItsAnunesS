@@ -75,11 +75,7 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
 
 [![Twitter](https://img.shields.io/badge/ItsAnunesS-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ItsAnunesS)
 [![LinkedIn](https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ItsAnunesS)
-[![GitHub](https://img.shields.io/badge/ItsAnunesS-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ItsAnunesS)
 [![YouTube](https://img.shields.io/badge/ItsAnunesS-%23CA2527.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ItsAnunesS)
-[![YpuTube Gaming](https://img.shields.io/badge/ItsAnunesS-%23FFFFFF.svg?&style=for-the-badge&logo=YouTube-Gaming&logoColor=%23CA2527)](https://youtube.com/@ItsAnunesSXP)
-[![Twitch](https://img.shields.io/badge/ItsAnunesS-%236441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/itsanuness)
-[![Telegram](https://img.shields.io/badge/ItsAnunesS-%230072b1.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsanuness)
 
 ---
 
