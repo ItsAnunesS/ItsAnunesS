@@ -11,54 +11,65 @@ Hello! 🌟 I'm an experienced software engineer with a burning passion for craf
 
 I'm thrilled to collaborate on exhilarating projects where I can harness my expertise, creativity, and technology-driven zeal to make a tangible difference. Together, we can sculpt efficient solutions, amplify productivity, and achieve unparalleled results.
 
-🎮 **Currently diving deep into:** Game Development/Design with Godot, GDScript, and C#.
+🎮 **Currently diving deep into:** Game Development/Design with Unity and C#.
 
-### Languages and Tools ⚔️
+### Languages and Frameworks ⚔️
 <p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="laravel" width="40" height="40"/>
-    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="laravel" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/javascript.webp" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/typescript.png" alt="TypeScript" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="40" height="40"/>
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/node.png" alt="NodeJS" width="40" height="40"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/php.png" alt="PHP" width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/laravel.png" alt="Laravel" width="40" height="40"/>
     </a>
-    <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="laravel" width="40" height="40"/>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/Vue.png" alt="VueJS" width="40" height="40"/>
+    </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/nuxt.png" alt="NuxtJS" width="43" height="37"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/tailwind.png" alt="Tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/daisyui.png" alt="DaisyUI" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/259b2be750fdcf2bbd0c05788f248a18a7e6eb9b/src/img/logos/rust.png" alt="Rust" width="40" height="40"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/259b2be750fdcf2bbd0c05788f248a18a7e6eb9b/src/img/logos/csharp.svg" alt="C#" width="40" height="40"/>
     </a>
 </p>
 
-### Game Development
+### Game Development 🎮
 <p>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/c05d626d78630b031423e28bc730e96899b6d3af/src/img/logos/ue.svg" alt="Unreal Engine" width="40" height="40" />
   </a>
   <a href="https://www.rpgmakerweb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/rpgmaker.png" alt="RPG Maker" width="40" height="40" />
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/unity.png" alt="Unity" width="40" height="40" />
   </a>
 </p>
+
+### No Code 🆘
+<p>
+    <a href="https://bubble.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/c05d626d78630b031423e28bc730e96899b6d3af/src/img/logos/bubble.svg" alt="Bubble" width="40" height="40"/>
+    </a>
+</p>
+
 
 ### Stay Connected 💃
 
