@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=cyan)](https://anuness.dev/)
-[![LinkTree](https://img.shields.io/static/v1?style=for-the-badge&label=LinkTree&message=UP&color=green)](https://anuness.dev/tree)
 
 </div>
 
