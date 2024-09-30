@@ -13,7 +13,7 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
 
 🎮 **Currently diving deep into:** Game Development/Design with Unity and C#.
 
-### Languages and Frameworks ⚔️
+### ⚔️ Languages and Frameworks
 <p>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
@@ -53,7 +53,7 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
     </a>
 </p>
 
-### Game Development 🎮
+### 🎮 Game Development 
 <p>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
     <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/c05d626d78630b031423e28bc730e96899b6d3af/src/img/logos/ue.svg" alt="Unreal Engine" width="40" height="40" />
@@ -63,7 +63,7 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
   </a>
 </p>
 
-### No Code 🆘
+### 🆘 No Code
 <p>
     <a href="https://bubble.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/c05d626d78630b031423e28bc730e96899b6d3af/src/img/logos/bubble.svg" alt="Bubble" width="40" height="40"/>
