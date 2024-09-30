@@ -52,9 +52,6 @@ I'm thrilled to collaborate on exhilarating projects where I can harness my expe
 
 ### Game Development
 <p>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" />
-  </a>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
   </a>
