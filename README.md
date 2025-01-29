@@ -6,7 +6,7 @@
 
 </div>
 
-## <img src="https://arweave.net/F3FQ6iQJ_l6UI5yqmNUVG5i2i362Yrc40mDkTnAsQFc" alt="DynatriSoft Logo" width="32" height="32"> Hello World! 👋
+## <img src="https://arweave.net/F3FQ6iQJ_l6UI5yqmNUVG5i2i362Yrc40mDkTnAsQFc" alt="DynatriSoft Logo" width="24" height="20"> Hello World! 👋
 
 I'm a software engineer passionate about crafting innovative solutions that make a difference. With over X years of experience in Fullstack development, I specialise in building scalable, high-performance applications whilst always pursuing best practices and cutting-edge technologies.
 
