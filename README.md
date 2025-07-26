@@ -1,9 +1,7 @@
 ![Header](https://arweave.net/Br35-6-63hIrZpfGGJSU1Bjw6JdfHN8buIUzAVkqbo4)
 
 <div align="center">
-
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&label=Website&message=UP&color=cyan)](https://anuness.dev/)
-
+  <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F" alt="Website"></a>
 </div>
 
 ## <img src="https://arweave.net/F3FQ6iQJ_l6UI5yqmNUVG5i2i362Yrc40mDkTnAsQFc" alt="DynatriSoft Logo" width="24" height="20"> Hello World! 👋
