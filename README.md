@@ -52,6 +52,9 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/node.png" alt="NodeJS" width="40" height="40"/>
     </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/2f7cca9158db28b2571e4a887e284c572f59b48c/src/img/logos/nest.png" alt="NestJS" width="40" height="40"/>
+    </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/spring.svg" alt="Spring Boot" width="40" height="40"/>
     </a>
