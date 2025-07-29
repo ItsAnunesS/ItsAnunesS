@@ -26,9 +26,6 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/refs/heads/main/src/img/logos/java.svg" alt="Java" width="40" height="40"/>
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/259b2be750fdcf2bbd0c05788f248a18a7e6eb9b/src/img/logos/csharp.svg" alt="C#" width="40" height="40"/>
-    </a>
 </p>
 
 ### 🎨 Frontend & UI
