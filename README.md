@@ -23,6 +23,9 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/php.png" alt="PHP" width="40" height="40"/>
     </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/refs/heads/main/src/img/logos/java.svg" alt="Java" width="40" height="40"/>
+    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/259b2be750fdcf2bbd0c05788f248a18a7e6eb9b/src/img/logos/csharp.svg" alt="C#" width="40" height="40"/>
     </a>
@@ -48,6 +51,9 @@ I'm a software engineer passionate about crafting innovative solutions that make
 <p>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/node.png" alt="NodeJS" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/spring.svg" alt="Spring Boot" width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/laravel.png" alt="Laravel" width="40" height="40"/>
