@@ -47,7 +47,7 @@ I'm a software engineer passionate about crafting innovative solutions that make
     </a>
 </p>
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend 
 <p>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/node.png" alt="NodeJS" width="40" height="40"/>
@@ -64,6 +64,19 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
     </a>
+</p>
+
+### 📦 DevOps & Infrastructure
+<p>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/adba8f34e787f594f3c6e973473f5e96a164e507/src/img/logos/aws.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.hetzner.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/adba8f34e787f594f3c6e973473f5e96a164e507/src/img/logos/hetzner.png" alt="Hetzner" width="40" height="40"/>
+  </a>
+  <a href="https://coolify.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/adba8f34e787f594f3c6e973473f5e96a164e507/src/img/logos/coolify.png" alt="Coolify" width="40" height="40"/>
+  </a>
 </p>
 
 ### 🎮 Game Development 
