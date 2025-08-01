@@ -113,7 +113,7 @@ I'm a software engineer passionate about crafting innovative solutions that make
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ItsAnunesS&theme=aura&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ItsAnunesS&theme=aura&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
