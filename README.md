@@ -124,3 +124,4 @@ I'm a software engineer passionate about crafting innovative solutions that make
   <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=ItsAnunesS&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div>
 
+<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/output/snake.svg" alt="Snake animation" />
