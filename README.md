@@ -1,8 +1,8 @@
 ![Header](https://arweave.net/Br35-6-63hIrZpfGGJSU1Bjw6JdfHN8buIUzAVkqbo4)
 
 <div align="center">
-  <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F&style=flat-square" alt="Website"></a>
-  <a href="https://api.anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fapi.anuness.dev&up_message=d&style=flat-square&label=API&link=https%3A%2F%2Fapi.anuness.dev" alt="API"></a>
+  <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F&style=flat-square&cacheSeconds=5" alt="Website"></a>
+  <a href="https://api.anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fapi.anuness.dev&up_message=d&style=flat-square&label=API&cacheSeconds=5&link=https%3A%2F%2Fapi.anuness.dev" alt="API"></a>
 </div>
 
 ## <img src="https://arweave.net/F3FQ6iQJ_l6UI5yqmNUVG5i2i362Yrc40mDkTnAsQFc" alt="DynatriSoft Logo" width="24" height="20"> Hello World! 👋
