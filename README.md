@@ -84,12 +84,6 @@ I'm a software engineer passionate about crafting innovative solutions that make
   </a>
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ItsAnunesS)
-
-</div>
-
 ---
 
 <div align="center">
@@ -99,15 +93,6 @@ I'm a software engineer passionate about crafting innovative solutions that make
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/portugalparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/italyparrot.gif" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/england.gif" width="30" height="30"/>
-</div>
-
-<div align="center">
-
-[![Followers badge](https://img.shields.io/github/followers/itsanuness?color=red)](https://github.com/ItsAnunesS/)
-[![Visitor badge](https://komarev.com/ghpvc/?username=itsanuness&color=d6614a&style=flat&label=visitors)](https://github.com/ItsAnunesS/)
-[![Stars badge](https://img.shields.io/github/stars/itsanuness?color=red)](https://github.com/ItsAnunesS/)
-[![Git Sponsors](https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=24292e)](https://github.com/sponsors/ItsAnunesS/)
-
 </div>
 
 <div align="center">
@@ -124,3 +109,31 @@ I'm a software engineer passionate about crafting innovative solutions that make
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/output/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <a href="https://anuness.dev">
+    <img
+      src="https://img.shields.io/badge/Portfolio-anuness.dev-d6614a?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ItsAnunesS">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/sponsors/ItsAnunesS">
+    <img
+      src="https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"
+      alt="GitHub Sponsors"
+    />
+  </a>
+</p>
+
+<div align="center">
+  
+  [![Followers badge](https://img.shields.io/github/followers/itsanuness?color=red)](https://github.com/ItsAnunesS/)
+  [![Visitor badge](https://komarev.com/ghpvc/?username=itsanuness&color=d6614a&style=flat&label=visitors)](https://github.com/ItsAnunesS/)
+  [![Stars badge](https://img.shields.io/github/stars/itsanuness?color=red)](https://github.com/ItsAnunesS/)
+  
+</div>
