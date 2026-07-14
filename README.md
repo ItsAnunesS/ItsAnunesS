@@ -50,6 +50,19 @@ I'm a software engineer passionate about crafting innovative solutions that make
     </a>
 </p>
 
+### 💾 Database
+<p>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mariadb.svg" alt="MariaDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mysql.png" alt="MySQL" width="40" height="40"/>
+  </a>  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/postgresql.webp" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</p>
+
 ### 📦 DevOps & Infrastructure
 <p>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -63,6 +76,9 @@ I'm a software engineer passionate about crafting innovative solutions that make
   </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/digitalocean.webp" alt="DigitalOcean" width="40" height="40"/>
   </a>
 </p>
 
