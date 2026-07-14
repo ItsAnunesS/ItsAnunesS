@@ -24,7 +24,7 @@ I'm a software engineer passionate about crafting innovative solutions that make
 ### 🎨 Frontend & UI
 <p>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/Vue.png" alt="VueJS" width="40" height="40"/>
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/vue.png" alt="VueJS" width="40" height="40"/>
     </a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/27c39ece279d989cf3271b493e9a55989e5fcf9f/src/img/logos/nuxt.png" alt="NuxtJS" width="43" height="37"/>
