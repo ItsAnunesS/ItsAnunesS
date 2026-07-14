@@ -56,7 +56,7 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mariadb.svg" alt="MariaDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mysql.png" alt="MySQL" width="40" height="40"/>
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mysql.svg" alt="MySQL" width="40" height="40"/>
   </a>  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/postgresql.webp" alt="PostgreSQL" width="40" height="40"/>
