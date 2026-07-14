@@ -68,9 +68,7 @@ I'm a software engineer passionate about crafting innovative solutions that make
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/ItsAnunesS-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ItsAnunesS)
 [![LinkedIn](https://img.shields.io/badge/ItsAnunesS-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ItsAnunesS)
-[![YouTube](https://img.shields.io/badge/ItsAnunesS-%23CA2527.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ItsAnunesS)
 
 </div>
 
