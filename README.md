@@ -4,7 +4,7 @@
   <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F&style=flat-square&cacheSeconds=5&link=https%3A%2F%2Fanuness.dev" alt="Website"></a>
 </div>
 
-## <img src="https://arweave.net/F3FQ6iQJ_l6UI5yqmNUVG5i2i362Yrc40mDkTnAsQFc" alt="DynatriSoft Logo" width="24" height="20"> Hello World! 👋
+## <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/anuness.svg" alt="AnunesS Logo" width="20" height="20"> Hello World! 👋
 
 I'm a software engineer passionate about crafting innovative solutions that make a difference. With over X years of experience in Fullstack development, I specialise in building scalable, high-performance applications whilst always pursuing best practices and cutting-edge technologies.
 
