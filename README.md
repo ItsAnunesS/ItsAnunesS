@@ -8,10 +8,6 @@
 
 I'm a software engineer passionate about crafting innovative solutions that make a difference. With over X years of experience in Fullstack development, I specialise in building scalable, high-performance applications whilst always pursuing best practices and cutting-edge technologies.
 
-🎯 **Current Focus:** Game development with Unity and C#, exploring new ways to create unique interactive experiences.
-
-🌱 **Always Learning:** Game Design Patterns, Unity Shader Programming and Advanced C# Development.
-
 ### 🌐 Languages & Core Technologies
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -22,9 +18,6 @@ I'm a software engineer passionate about crafting innovative solutions that make
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/php.png" alt="PHP" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/refs/heads/main/src/img/logos/java.svg" alt="Java" width="40" height="40"/>
     </a>
 </p>
 
@@ -52,14 +45,8 @@ I'm a software engineer passionate about crafting innovative solutions that make
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/nest.png" alt="NestJS" width="40" height="40"/>
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/spring.svg" alt="Spring Boot" width="40" height="40"/>
-    </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/laravel.png" alt="Laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
     </a>
 </p>
 
@@ -73,13 +60,9 @@ I'm a software engineer passionate about crafting innovative solutions that make
   </a>
   <a href="https://coolify.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/adba8f34e787f594f3c6e973473f5e96a164e507/src/img/logos/coolify.png" alt="Coolify" width="40" height="40"/>
-  </a>
-</p>
-
-### 🎮 Game Development 
-<p>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/unity.png" alt="Unity" width="40" height="40" />
+  </a>  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/e3dac2ea654b8cd492b8750988d28e299afabf86/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
