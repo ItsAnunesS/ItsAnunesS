@@ -1,4 +1,6 @@
-![Header](https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/banner.png)
+<a href="https://anuness.dev" align="center">
+  <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/banner.png" alt="André Nunes, Software Engineer" width="100%" />
+</a>
 
 <div align="center">
   <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F&style=flat-square&cacheSeconds=5&link=https%3A%2F%2Fanuness.dev" alt="Website"></a>
