@@ -1,6 +1,8 @@
-<a href="https://anuness.dev" align="center">
-  <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/banner.png" alt="André Nunes, Software Engineer" width="100%" />
-</a>
+<p align="center">
+  <a href="https://anuness.dev">
+    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/banner.png" alt="Banner" width="100%" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://anuness.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fanuness.dev%2F&style=flat-square&cacheSeconds=5&link=https%3A%2F%2Fanuness.dev" alt="Website"></a>
@@ -10,81 +12,84 @@
 
 I'm a software engineer passionate about crafting innovative solutions that make a difference. With over X years of experience in Fullstack development, I specialise in building scalable, high-performance applications whilst always pursuing best practices and cutting-edge technologies.
 
-### 🌐 Languages & Core Technologies
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/javascript.webp" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/typescript.png" alt="TypeScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/php.png" alt="PHP" width="40" height="40"/>
-    </a>
-</p>
 
-### 🎨 Frontend & UI
-<p>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/vue.png" alt="VueJS" width="40" height="40"/>
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/nuxt.png" alt="NuxtJS" width="43" height="37"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/tailwind.png" alt="Tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/daisyui.png" alt="DaisyUI" width="40" height="40"/>
-    </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <strong>🌐 Languages</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>⚙️ Backend</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>💾 Databases</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>📦 Infrastructure</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/javascript.webp" alt="JavaScript" width="42" height="42" />
+      </a> &nbsp; <a href="https://www.typescriptlang.org">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/typescript.png" alt="TypeScript" width="42" height="42" />
+      </a> &nbsp; <a href="https://www.php.net">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/php.png" alt="PHP" width="42" height="42" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://vuejs.org">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/vue.png" alt="Vue.js" width="42" height="42" />
+      </a> &nbsp; <a href="https://nuxt.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/nuxt.png" alt="Nuxt" width="42" height="42" />
+      </a> &nbsp; <a href="https://tailwindcss.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/tailwind.png" alt="Tailwind CSS" width="42" height="42" />
+      </a> &nbsp; <a href="https://daisyui.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/daisyui.png" alt="DaisyUI" width="42" height="42" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://nodejs.org">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/node.png" alt="Node.js" width="42" height="42" />
+      </a> &nbsp; <a href="https://nestjs.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/nest.png" alt="NestJS" width="42" height="42" />
+      </a> &nbsp; <a href="https://laravel.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/laravel.png" alt="Laravel" width="42" height="42" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://mariadb.org">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mariadb.svg" alt="MariaDB" width="42" height="42" />
+      </a> &nbsp; <a href="https://www.mysql.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mysql.svg" alt="MySQL" width="42" height="42" />
+      </a> &nbsp; <a href="https://www.postgresql.org">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/postgresql.webp" alt="PostgreSQL" width="42" height="42" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://www.docker.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/docker.webp" alt="Docker" width="42" height="42" />
+      </a> &nbsp; <a href="https://aws.amazon.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/aws.svg" alt="AWS" width="42" height="42" />
+      </a> &nbsp; <a href="https://www.hetzner.com">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/hetzner.png" alt="Hetzner" width="42" height="42" />
+      </a> &nbsp; <a href="https://coolify.io">
+        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/coolify.png" alt="Coolify" width="42" height="42" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend 
-<p>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/node.png" alt="NodeJS" width="40" height="40"/>
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/nest.png" alt="NestJS" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/laravel.png" alt="Laravel" width="40" height="40"/>
-    </a>
-</p>
-
-### 💾 Database
-<p>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mariadb.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/mysql.svg" alt="MySQL" width="40" height="40"/>
-  </a>  
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/postgresql.webp" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
-
-### 📦 DevOps & Infrastructure
-<p>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/aws.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.hetzner.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/hetzner.png" alt="Hetzner" width="40" height="40"/>
-  </a>
-  <a href="https://coolify.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/coolify.png" alt="Coolify" width="40" height="40"/>
-  </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/docker.webp" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ItsAnunesS/ItsAnunesS/blob/main/src/img/logos/digitalocean.webp" alt="DigitalOcean" width="40" height="40"/>
-  </a>
-</p>
-
----
+<hr>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/brazilparrot.gif" width="30" height="30"/>
