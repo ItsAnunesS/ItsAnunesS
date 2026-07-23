@@ -129,7 +129,7 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://gh-trophy.cdnsoft.net/?username=ItsAnunesS&theme=aura&no-frame=true"
+      src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ItsAnunesS&theme=aura&no-frame=true"
       alt="GitHub profile trophies"
     />
   </a>  
